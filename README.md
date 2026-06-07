@@ -260,8 +260,8 @@ claw-agent/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd claw-agent
+git clone "https://github.com/Electrolight123/Claw-agent.git"
+cd Claw-agent
 ```
 
 Install dependencies:
